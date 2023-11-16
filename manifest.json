@@ -21,7 +21,7 @@
             "ntp_attribution_text": [ 0, 55, 213 ]
         },
         "images": {
-            "theme_toolbar": "images/theme_toolbar.png"
+            "theme_toolbar": "images/theme_toolbar_blue.png"
          },
         "tints": { "buttons": [0, 0, 1] }
     }
